@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">YoutubeListApp</string>
+    <string name="thumbnail_one">What next for Indias Tech Landscape | Will Poole,
+        Co-Founder of Capria</string>
+    <string name="thumbnail_two">How India is emerging as a Tech Superpower | Kailash Nadh,
+        CTO of Zerodha</string>
+    <string name="thumbnail_three">Power of Assertive Communication | Skillathon
+        | Masai School</string>
+    <string name="thumbnail_four">Email Effectiveness Masterclass | Skillathon
+        | Masai School</string>
+    <string name="thumbnail_five">Masai School - How to learn coding feat. @Sahil Shah</string>
+</resources>
